@@ -18,7 +18,7 @@ gem 'inspec-bin'
 gem 'rubocop', '~> 1.3'
 
 group :test do
-  gem "simplecov", "~> 0.21"
+  gem "simplecov", "~> 1.0"
   gem "simplecov_json_formatter"
 end
 
